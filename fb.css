@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+.main {
+    background-color: #f0f2f5;
+    padding-bottom: 112px;
+    padding-top: 72px;
+    
+}
+
+.inner-main {
+    font-weight: bold;
+    
+}
+
+.inner-main-logo {
+    width: 50%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 5%;
+    
+}
+
+.image-logo {
+    height: 106px; 
+    width: 400px;
+    
+}

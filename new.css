@@ -1,0 +1,26 @@
+.header {
+    width: 100%;
+    background: aquamarine;
+    height: 100px;
+}
+.left-section {
+    width: 20%;
+    float: left;
+    height: 400px;
+    background-color: olive;
+}
+.right-section {
+    width: 20%;
+    float: right;
+    height: 400px;
+    background-color: orchid; 
+}
+.footer {
+    height: 150px;
+    width: 100%;
+
+    background:red ;
+}
+.content {
+    height: 400px;
+}
